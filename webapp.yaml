@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: webapp
-        image: 
+        image: https://github.com/SanTheEagle/podeapp.git
         resources:
           limits:
             memory: "128Mi"
